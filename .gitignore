@@ -1,21 +1,6 @@
-# Python
 __pycache__/
-*.py[cod]
-*.so
-.Python
-env/
-venv/
+*.pyc
 .env
-*.egg-info/
-dist/
-build/
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-
-# Temporary files
-*.tmp
-*.log
 temp/
+*.log
+.venv/
